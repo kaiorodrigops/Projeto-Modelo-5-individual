@@ -4,7 +4,7 @@
 
 
 <br><br>
-<b>CONTEXTO:</b> <i>Projeto Individual correspondente ao modulo 5 do curso de Full-Stack Programadores Cariocas das Instituições SENAC e Resilia. Unidade de Campo Grande, Rio de Janeiro.?</i><br>
+<b>CONTEXTO:</b> <i>Projeto Individual correspondente ao modulo 5 do curso de Full-Stack Programadores Cariocas das Instituições SENAC e Resilia. Unidade de Campo Grande, Rio de Janeiro.</i><br>
 
 
 <br>
